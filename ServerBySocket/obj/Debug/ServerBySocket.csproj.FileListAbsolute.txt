@@ -1,0 +1,50 @@
+d:\documents\visual studio 2013\Projects\ServerBySocket\ServerBySocket\bin\Debug\ServerBySocket.exe.config
+d:\documents\visual studio 2013\Projects\ServerBySocket\ServerBySocket\bin\Debug\ServerBySocket.exe
+d:\documents\visual studio 2013\Projects\ServerBySocket\ServerBySocket\bin\Debug\ServerBySocket.pdb
+d:\documents\visual studio 2013\Projects\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.exe
+d:\documents\visual studio 2013\Projects\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.pdb
+d:\documents\visual studio 2013\Projects\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.ServerForm.resources
+D:\Documents\visual studio 2013\Projects\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ServerBySocket\ServerBySocket\bin\Debug\ServerBySocket.exe.config
+C:\Users\Administrator\Desktop\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.exe
+C:\Users\Administrator\Desktop\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.pdb
+C:\Users\Administrator\Desktop\ServerBySocket\ServerBySocket\bin\Debug\ServerBySocket.exe
+C:\Users\Administrator\Desktop\ServerBySocket\ServerBySocket\bin\Debug\ServerBySocket.pdb
+C:\Users\Administrator\Desktop\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.ServerForm.resources
+C:\Users\Administrator\Desktop\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\瑞驰项目\技术资料\ServerBySocket\ServerBySocket\bin\Debug\ServerBySocket.exe.config
+C:\Users\Administrator\Desktop\瑞驰项目\技术资料\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.exe
+C:\Users\Administrator\Desktop\瑞驰项目\技术资料\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.pdb
+C:\Users\Administrator\Desktop\瑞驰项目\技术资料\ServerBySocket\ServerBySocket\bin\Debug\ServerBySocket.exe
+C:\Users\Administrator\Desktop\瑞驰项目\技术资料\ServerBySocket\ServerBySocket\bin\Debug\ServerBySocket.pdb
+C:\Users\Administrator\Desktop\瑞驰项目\技术资料\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\瑞驰项目\技术资料\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.ServerForm.resources
+C:\Users\Administrator\Desktop\瑞驰项目\技术资料\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.Properties.Resources.resources
+C:\Users\Administrator\Desktop\瑞驰项目\技术资料\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.csproj.GenerateResource.Cache
+E:\瑞驰项目\技术资料\ServerBySocket\ServerBySocket\bin\Debug\ServerBySocket.exe.config
+E:\瑞驰项目\技术资料\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.exe
+E:\瑞驰项目\技术资料\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.pdb
+E:\瑞驰项目\技术资料\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.ServerForm.resources
+E:\瑞驰项目\技术资料\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.Properties.Resources.resources
+E:\瑞驰项目\技术资料\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.csproj.GenerateResource.Cache
+E:\瑞驰项目\技术资料\ServerBySocket\ServerBySocket\bin\Debug\ServerBySocket.exe
+E:\瑞驰项目\技术资料\ServerBySocket\ServerBySocket\bin\Debug\ServerBySocket.pdb
+E:\瑞驰项目\技术资料\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.Form1.resources
+E:\瑞驰项目\技术资料\ServerBySocket\ServerBySocket\obj\Debug\ServerBySocket.csprojResolveAssemblyReference.cache
+E:\GPS\ServerBySocket\bin\Debug\ServerBySocket.exe.config
+E:\GPS\ServerBySocket\obj\Debug\ServerBySocket.exe
+E:\GPS\ServerBySocket\obj\Debug\ServerBySocket.pdb
+E:\GPS\ServerBySocket\bin\Debug\ServerBySocket.exe
+E:\GPS\ServerBySocket\bin\Debug\ServerBySocket.pdb
+E:\GPS\ServerBySocket\obj\Debug\ServerBySocket.ServerForm.resources
+E:\GPS\ServerBySocket\obj\Debug\ServerBySocket.Properties.Resources.resources
+E:\GPS\ServerBySocket\obj\Debug\ServerBySocket.csproj.GenerateResource.Cache
+E:\GPS\ServerBySocket\obj\Debug\ServerBySocket.GPS.resources
+E:\GPS\ServerBySocket\obj\Debug\ServerBySocket.csprojResolveAssemblyReference.cache
+E:\Repos\ServerBySocket\bin\Debug\ServerBySocket.exe.config
+E:\Repos\ServerBySocket\obj\Debug\ServerBySocket.exe
+E:\Repos\ServerBySocket\obj\Debug\ServerBySocket.pdb
